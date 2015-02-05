@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ConfigLibrary.Configuration" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="1.92859" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ConfigLibrary.Entity.MailBox" Collapsed="False">
+    <Position X="0.5" Y="3.6" Width="1.573752" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ConfigLibrary.Entity.CollectionEntity" Collapsed="False">
+    <Position X="0.5" Y="6.2" Width="2.14526" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ConfigLibrary.Entity.MailEntity" Collapsed="False">
+    <Position X="0.5" Y="8.6" Width="2.311847" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ConfigLibrary.Entity.DataBaseEntity" Collapsed="False">
+    <Position X="0.5" Y="12.5" Width="2.141393" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="ConfigLibrary.ConfigHandler" Collapsed="False">
+    <Position X="0.5" Y="16.5" Width="2.311847" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Interface Name="ConfigLibrary.Entity.EntityInterface" Collapsed="False">
+    <Position X="0.5" Y="22.7" Width="1.47213" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+    </Compartments>
+  </Interface>
+</ClassDiagram>
